@@ -1,0 +1,8 @@
+.cache/
+build/
+
+*.log
+*.raw
+*.plt
+*.fft
+*.net
